@@ -7,7 +7,7 @@
 			<section class="introBlock position-relative">
 				<div class="slick-fade">
 					<div>
-						<div class="align w-100 d-flex align-items-center bgCover" style="background-image: url(images/b-bg.jpg);">
+						<div class="align w-100 d-flex align-items-center bgCover" style="background-image: url(project/template/images/b-bg.jpg);">
 							<!-- holder -->
 							<div class="container position-relative holder pt-xl-10 pt-0">
 								<!-- py-12 pt-lg-30 pb-lg-25 -->
@@ -76,38 +76,70 @@
 			</section>
 			<!-- chooseUs-sec -->
 			<section class="chooseUs-sec container pt-xl-22 pt-lg-20 pt-md-16 pt-10 pb-xl-12 pb-md-7 pb-2">
-				<div class="row">
-					<div class="col-12 col-lg-6 mb-lg-0 mb-4">
-						<img src="project/template/images/img01.jpg" alt="image description" class="img-fluid">
-					</div>
-					<div class="col-12 col-lg-6 pr-4">
-						<h2 class="headingII fwEbold playfair position-relative mb-6 pb-5">Why choose us ?</h2>
-						<p class="mb-xl-14 mb-lg-10">Lorem ipsum is simply dummy text of the printing and typesetting industry, lorem ipsum has been the industry's standard dummy text ever since the 1500s  when an unknown printer took a galley ... <a href="javascript:void(0);" class="btnMore"><i>Learn More</i></a></p>
-						<!-- chooseList -->
-						<ul class="list-unstyled chooseList">
-							<li class="d-flex justify-content-start mb-xl-7 mb-lg-5 mb-3">
-								<span class="icon icon-plant"></span>
-								<div class="alignLeft d-flex justify-content-start flex-wrap">
-									<h3 class="headingIII fwEbold mb-2">Hand Planted</h3>
-									<p>There are many variations of passages of lorem ipsum available, but the majority have suffered alteration in some form.</p>
-								</div>
-							</li>
-							<li class="d-flex justify-content-start mb-xl-6 mb-lg-5 mb-4">
-								<span class="icon icon-ic-plant"></span>
-								<div class="alignLeft d-flex justify-content-start flex-wrap">
-									<h3 class="headingIII fwEbold mb-2">Natural Sunlight</h3>
-									<p>It is a long established fact that a reader will be distracted by the reable content of a page.</p>
-								</div>
-							</li>
-							<li class="d-flex justify-content-start">
-								<span class="icon icon-desert"></span>
-								<div class="alignLeft d-flex justify-content-start flex-wrap">
-									<h3 class="headingIII fwEbold mb-2">Clean Air</h3>
-									<p>There are many variations of passages of lorem ipsum available, but the majority have suffered.</p>
-								</div>
-							</li>
-						</ul>
-					</div>
+				
+				<div class="banner-wrapp">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 col-sm-12">
+                        <div class="banner">
+                            <div class="item-banner style4">
+                                <div class="inner">
+                                    <div class="banner-content">
+                                        <h4 class="teamo-subtitle">TOP STAFF PICK</h4>
+                                        <h3 class="title">Shop Cactus</h3>
+                                        <div class="description">
+                                            Proin interdum magna primis id consequat dictum
+                                        </div>
+                                        <a href="#" class="button btn-shop-now">Shop now</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-12">
+                        <div class="banner">
+                            <div class="item-banner style5">
+                                <div class="inner">
+                                    <div class="banner-content">
+                                        <h3 class="title">Indoor Life<br/>Plants</h3>
+                                        <span class="code">
+												Use code:
+												<span>
+													TEAMO
+												</span>
+												Get 25% Off for all Accessories items!
+											</span>
+                                        <a href="#" class="button btn-shop-now">Shop now</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="banner-wrapp rows-space-65">
+            <div class="container">
+                <div class="banner">
+                    <div class="item-banner style17">
+                        <div class="inner">
+                            <div class="banner-content">
+                                <h3 class="title">Living thing grows</h3>
+                                <div class="description">
+                                    You have no car & Are you <br/>ready to grow? come & shop with us!
+                                </div>
+                                <div class="banner-price">
+                                    Price from:
+                                    <span class="number-price">$45.00</span>
+                                </div>
+                                <a href="#" class="button btn-shop-now">Shop now</a>
+                                <a href="#" class="button btn-view-collection">View more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 				</div>
 			</section>
 			<!-- featureSec -->

@@ -3,6 +3,33 @@
 <html lang="en">
 
 <head>
+
+    <!-- 2 css TEMPLATE LINK -->
+
+
+
+	<link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png"/>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i&amp;display=swap"
+          rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="project/template/css2/bootstrap.min.css">
+    <link rel="stylesheet" href="project/template/css2/font-awesome.min.css">
+    <link rel="stylesheet" href="project/template/css2/owl.carousel.min.css">
+    <link rel="stylesheet" href="project/template/css2/animate.min.css">
+    <link rel="stylesheet" href="project/template/css2/jquery-ui.css">
+    <link rel="stylesheet" href="project/template/css2/slick.css">
+    <link rel="stylesheet" href="project/template/css2/chosen.min.css">
+    <link rel="stylesheet" href="project/template/css2/pe-icon-7-stroke.css">
+    <link rel="stylesheet" href="project/template/css2/magnific-popup.min.css">
+    <link rel="stylesheet" href="project/template/css2/lightbox.min.css">
+    <link rel="stylesheet" href="project/template/js2/fancybox/source/jquery.fancybox.css">
+    <link rel="stylesheet" href="project/template/css2/jquery.scrollbar.min.css">
+    <link rel="stylesheet" href="project/template/css2/mobile-menu.css">
+    <link rel="stylesheet" href="project/template/fonts2/flaticon/flaticon.css">
+    <link rel="stylesheet" href="project/template/css2/style.css">
+</head>
+
+
 	<!-- set the encoding of your site -->
 	<meta charset="utf-8">
 	<!-- set the Compatible of your site -->
@@ -17,7 +44,7 @@
 	<!-- include the site fontawesome stylesheet -->
 	<link rel="stylesheet" href="project/template/css/fontawesome.css">
 	<!-- include the site stylesheet -->
-	<link rel="stylesheet" href="project/template/style.css">
+	<link rel="stylesheet" href="project/template/styleown.css">
 	<!-- include theme plugins setting stylesheet -->
 	<link rel="stylesheet" href="project/template/css/plugins.css">
 	<!-- include theme color setting stylesheet -->
@@ -212,6 +239,30 @@
 	<script src="project/template/js/bootstrap.min.js"></script>
 	<!-- include custom JavaScript -->
 	<script src="project/template/js/jqueryCustome.js"></script>
+
+
+	<!-- Temp 2 js link -->
+
+	<script src="project/template/js2/jquery-1.12.4.min.js"></script>
+<script src="project/template/js2/jquery.plugin-countdown.min.js"></script>
+<script src="project/template/js2/jquery-countdown.min.js"></script>
+<script src="project/template/js2/bootstrap.min.js"></script>
+<script src="project/template/js2/owl.carousel.min.js"></script>
+<script src="project/template/js2/magnific-popup.min.js"></script>
+<script src="project/template/js2/isotope.min.js"></script>
+<script src="project/template/js2/jquery.scrollbar.min.js"></script>
+<script src="project/template/js2/jquery-ui.min.js"></script>
+<script src="project/template/js2/mobile-menu.js"></script>
+<script src="project/template/js2/chosen.min.js"></script>
+<script src="project/template/js2/slick.js"></script>
+<script src="project/template/js2/jquery.elevateZoom.min.js"></script>
+<script src="project/template/js2/jquery.actual.min.js"></script>
+<script src="project/template/js2/fancybox/source/jquery.fancybox.js"></script>
+<script src="project/template/js2/lightbox.min.js"></script>
+<script src="project/template/js2/owl.thumbs.min.js"></script>
+<script src="project/template/js2/jquery.scrollbar.min.js"></script>
+<script src='https://maps.googleapis.com/maps/api/js?key=AIzaSyC3nDHy1dARR-Pa_2jjPCjvsOR4bcILYsM'></script>
+<script src="project/template/js2/frontend-plugin.js"></script>
 </body>
 
 
